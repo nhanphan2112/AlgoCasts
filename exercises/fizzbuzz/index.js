@@ -12,6 +12,8 @@
 //   4
 //   buzz
 
-function fizzBuzz(n) {}
+function fizzBuzz(n) {
+	const x = 2;
+}
 
 module.exports = fizzBuzz;
